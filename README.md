@@ -1,2 +1,4 @@
 # yoga
-Default repository for yoga found website.
+Default repository for the yoga found website.
+
+https://www.yogafound.com
